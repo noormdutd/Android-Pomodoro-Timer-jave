@@ -76,6 +76,6 @@ pomodorotimer/
 📜 License & Usage Rights
 By purchasing this source code, you receive a single-use commercial license to modify, build, and publish your own application to Google Play Store or other app markets. Redistribution or reselling of the raw source code is strictly prohibited.
 
-👉 **[Get Full Source Code on Gumroad](https://noormdah.gumroad.com/l/zekwcc)**
+👉 **[Get Full Source Code on Gumroad] https://noormdah.gumroad.com/l/zekwcc
 
 Created with ❤️ for Productivity and Clean Code.
